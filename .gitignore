@@ -1,0 +1,16 @@
+*.yyz
+*.zip
+*.exe
+*.dll
+*.log
+build/
+cache/
+output/
+.svn/
+.vs/
+*.gmlc/
+Thumbs.db
+desktop.ini
+*.user
+*.suo
+*.userprefs

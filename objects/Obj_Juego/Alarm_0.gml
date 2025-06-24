@@ -1,0 +1,2 @@
+//reinicio
+room_restart();
